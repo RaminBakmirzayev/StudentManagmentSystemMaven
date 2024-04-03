@@ -13,7 +13,7 @@ public class Config implements Serializable {
     private Student[] students = new Student[0];
     private Teacher[] teachers = new Teacher[0];
 
-    private static Config instance = new Config();    // ussage for Singleton Pattern
+    private static Config instance = new Config();    // usage for Singleton Pattern
     private static final String filename = "app.obj";
     private static Boolean loogedIn = false;
 
