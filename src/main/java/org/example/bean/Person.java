@@ -26,11 +26,11 @@ public abstract class Person implements Serializable {
 
     @Override
     public String toString() {
-        return "{" +
+        return "_______________________________" +
                 "name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
                 ", age=" + age +
-                '}';
+                "______________________________";
     }
 
 
