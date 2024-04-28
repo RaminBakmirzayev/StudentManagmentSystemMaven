@@ -11,21 +11,5 @@ public class Main {
         MenuUtil.showMenu();
 
 
-//        byte b = 60;
-//        b = (byte) (b + 2);
-//
-//        A:
-//        for (int i = 0; i < 10; i++) {
-//
-//            for (int i1 = 0; i1 < 10; i1++) {
-//                if (i1==6) {
-//                    break A;
-//                }
-//            }
-//        }
-//
-//
-//        System.out.println((byte) (b * 2));
-//        System.out.println((byte) (b + 1));
     }
 }
