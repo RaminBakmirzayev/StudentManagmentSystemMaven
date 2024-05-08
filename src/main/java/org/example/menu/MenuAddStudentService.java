@@ -16,7 +16,6 @@ public class MenuAddStudentService implements MenuAddStudentServiceInter {
         System.out.println("enter Student surname:");
         Scanner sc2 = new Scanner(System.in);
         String surname = sc.nextLine();
-
         Student s = new Student();
         s.setName(name);
         s.setSurname(surname);
